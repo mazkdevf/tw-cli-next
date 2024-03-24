@@ -20,5 +20,5 @@ npx @tailwindcss/cli@next -i app.css -o dist/app.css --watch --minify
 ```
 
 ```bash
-npx @tailwindcss/cli@next -i app.css -o dist/app.css --watch --minify --optimize
+npx @tailwindcss/cli@next -i app.css -o dist/app.css --watch --optimize
 ```
